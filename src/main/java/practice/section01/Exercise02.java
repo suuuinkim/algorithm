@@ -1,4 +1,4 @@
-package practice;
+package practice.section01;
 import java.util.*;
 public class Exercise02 {
 
